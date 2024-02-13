@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recap-1", "Recap-1\Recap-1.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recap-2", "Recap-2", "{9CE4D355-39B2-42F9-ADD4-B4EF754C1672}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanCodeDemo", "CleanCodeDemo\CleanCodeDemo.csproj", "{5084932F-6EFE-4B7F-840E-640B5E2A3448}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanCodeDemo", "CleanCodeDemo\CleanCodeDemo.csproj", "{5084932F-6EFE-4B7F-840E-640B5E2A3448}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recap-3", "Recap-3", "{0BBE66AC-C24D-4482-9C2E-B608D0E8411E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KodlamaIoWorkshop", "KodlamaIoWorkshop\KodlamaIoWorkshop.csproj", "{453FFD35-0146-477B-97EB-6B28EC169FBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +29,10 @@ Global
 		{5084932F-6EFE-4B7F-840E-640B5E2A3448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5084932F-6EFE-4B7F-840E-640B5E2A3448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5084932F-6EFE-4B7F-840E-640B5E2A3448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{453FFD35-0146-477B-97EB-6B28EC169FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453FFD35-0146-477B-97EB-6B28EC169FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453FFD35-0146-477B-97EB-6B28EC169FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453FFD35-0146-477B-97EB-6B28EC169FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +40,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{3EEDD87F-06C6-4108-8CBA-092370D371DB} = {9D41D54B-2F2C-4515-AA87-9F36C09AEE83}
 		{5084932F-6EFE-4B7F-840E-640B5E2A3448} = {9CE4D355-39B2-42F9-ADD4-B4EF754C1672}
+		{453FFD35-0146-477B-97EB-6B28EC169FBD} = {0BBE66AC-C24D-4482-9C2E-B608D0E8411E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {023E941B-5677-499E-A051-6109F3454F5A}
